@@ -53,9 +53,7 @@
   top: 0px;
   border-radius: 0px;
 }
-
 /** Itens-Menu - Espaço total da lista**/
-
 #menu-item {
   margin-top: 6%;
 }
@@ -65,7 +63,6 @@
   font-family: "Quicksand";
   border-bottom: #d8d6d6 1.5px solid;
 }
-
 #menu-item li a {
   font-style: normal;
   font-weight: 500;
@@ -90,7 +87,7 @@
   background-color: #fdf1eb;
   border-left: #ee7a3a solid 3px;
 }
-/** HEADER **/
+/** Header **/
 header {
   position: absolute;
   margin-left: 220px;
